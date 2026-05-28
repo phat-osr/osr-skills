@@ -1,0 +1,506 @@
+{
+  "https://images.unsplash.com/photo-1610319263685-dffecc4d4a15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0JTIwbWFya2V0JTIwZml0fGVufDB8MHx8fDE3NzkzNDcyNDd8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/product-market-fit/cover-449c3be6.jpg",
+    "key": "articles/product-market-fit/cover-449c3be6.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-009",
+    "record_id": "rec06cdib9bNsZ0kd",
+    "size_bytes": 125852
+  },
+  "https://images.unsplash.com/photo-1730804518415-75297e8d2a41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxwdXp6bGUlMjBwaWVjZXMlMjBmaXR0aW5nJTIwdG9nZXRoZXJ8ZW58MHwwfHx8MTc3OTQ0MTY2NXww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/product-market-fit/supplementary-4f865dc9.jpg",
+    "key": "articles/product-market-fit/supplementary-4f865dc9.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-009",
+    "record_id": "rec06cdib9bNsZ0kd",
+    "size_bytes": 128310
+  },
+  "https://images.unsplash.com/photo-1533750349088-cd871a92f312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxnbyUyMHRvJTIwbWFya2V0JTIwc3RyYXRlZ3l8ZW58MHwwfHx8MTc3OTQzMDAzMHww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/go-to-market-strategy/cover-0576032c.jpg",
+    "key": "articles/go-to-market-strategy/cover-0576032c.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-016",
+    "record_id": "rec1WrM7SIjHbAxn9",
+    "size_bytes": 146074
+  },
+  "https://files.catbox.moe/8z9t5k.png": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/go-to-market-strategy/infographic-c7a68133.png",
+    "key": "articles/go-to-market-strategy/infographic-c7a68133.png",
+    "role": "infographic",
+    "article_id": "OSR-2026-05-22-016",
+    "record_id": "rec1WrM7SIjHbAxn9",
+    "size_bytes": 2210636
+  },
+  "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxtYXJrZXRpbmclMjBzdHJhdGVneSUyMHdoaXRlYm9hcmQlMjB0ZWFtfGVufDB8MHx8fDE3Nzk0Mzg2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/go-to-market-strategy/supplementary-cf4aad9c.jpg",
+    "key": "articles/go-to-market-strategy/supplementary-cf4aad9c.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-016",
+    "record_id": "rec1WrM7SIjHbAxn9",
+    "size_bytes": 75553
+  },
+  "https://images.unsplash.com/photo-1521019795854-14e15f600980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwdGVjaCUyMGluZHVzdHJ5fGVufDB8MHx8fDE3Nzk0MzAwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-tech-industry/cover-286a5a65.jpg",
+    "key": "articles/vietnam-tech-industry/cover-286a5a65.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-015",
+    "record_id": "rec2cfC6d9iPTU3Ra",
+    "size_bytes": 176364
+  },
+  "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZXIlMjB0eXBpbmclMjBjb2RlJTIwbW9uaXRvcnxlbnwwfDB8fHwxNzc5NDM4NjAzfDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-tech-industry/supplementary-7eb57922.jpg",
+    "key": "articles/vietnam-tech-industry/supplementary-7eb57922.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-015",
+    "record_id": "rec2cfC6d9iPTU3Ra",
+    "size_bytes": 56264
+  },
+  "https://images.unsplash.com/photo-1558156827-5a746940d09f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxpbnZlc3RtZW50JTIwY2hhcnQlMjBncm93dGglMjB2aWV0bmFtfGVufDB8MHx8fDE3Nzk0MjY4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-investment-opportunities/cover-5670663b.jpg",
+    "key": "articles/vietnam-investment-opportunities/cover-5670663b.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-010",
+    "record_id": "rec59JKcAe085svvY",
+    "size_bytes": 135150
+  },
+  "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxzdG9jayUyMGNoYXJ0JTIwZmluYW5jaWFsJTIwbWFya2V0fGVufDB8MHx8fDE3Nzk0Mzg1OTB8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-investment-opportunities/supplementary-8730df43.jpg",
+    "key": "articles/vietnam-investment-opportunities/supplementary-8730df43.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-010",
+    "record_id": "rec59JKcAe085svvY",
+    "size_bytes": 64272
+  },
+  "https://images.unsplash.com/photo-1743385779347-1549dabf1320?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxtaW5pbXVtJTIwdmlhYmxlJTIwcHJvZHVjdCUyMGV4YW1wbGVzfGVufDB8MHx8fDE3Nzk0Mzc2MjN8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/minimum-viable-product-examples/cover-8c6e0eee.jpg",
+    "key": "articles/minimum-viable-product-examples/cover-8c6e0eee.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-012",
+    "record_id": "rec7Ydw3JeFeOGY5l",
+    "size_bytes": 141359
+  },
+  "https://files.catbox.moe/ecvgyn.png": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/minimum-viable-product-examples/infographic-7c73762e.png",
+    "key": "articles/minimum-viable-product-examples/infographic-7c73762e.png",
+    "role": "infographic",
+    "article_id": "OSR-2026-05-22-012",
+    "record_id": "rec7Ydw3JeFeOGY5l",
+    "size_bytes": 2359419
+  },
+  "https://images.unsplash.com/photo-1576595580361-90a855b84b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0JTIwcHJvdG90eXBlJTIwc2tldGNoJTIwbm90ZWJvb2t8ZW58MHwwfHx8MTc3OTQzODU5NXww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/minimum-viable-product-examples/supplementary-0f82adad.jpg",
+    "key": "articles/minimum-viable-product-examples/supplementary-0f82adad.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-012",
+    "record_id": "rec7Ydw3JeFeOGY5l",
+    "size_bytes": 169362
+  },
+  "https://images.unsplash.com/photo-1777309848638-7ab83a6d7bf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwZmFjdG9yeSUyMHdvcmtlcnxlbnwwfDB8fHwxNzc5NDI2MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/why-vietnam-economy-is-booming/cover-9cd1299a.jpg",
+    "key": "articles/why-vietnam-economy-is-booming/cover-9cd1299a.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-006",
+    "record_id": "rec8wZj0KW2aI7B2D",
+    "size_bytes": 87554
+  },
+  "https://images.unsplash.com/photo-1678182451047-196f22a4143e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxzaGlwcGluZyUyMHBvcnQlMjBjb250YWluZXJ8ZW58MHwwfHx8MTc3OTQzODU4MHww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/why-vietnam-economy-is-booming/supplementary-2ffde533.jpg",
+    "key": "articles/why-vietnam-economy-is-booming/supplementary-2ffde533.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-006",
+    "record_id": "rec8wZj0KW2aI7B2D",
+    "size_bytes": 278245
+  },
+  "https://images.unsplash.com/photo-1676276383603-adaf8967f71f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2YWx1ZSUyMHByb3Bvc2l0aW9uJTIwY2FudmFzJTIwbW9kZWx8ZW58MHwwfHx8MTc3OTM1NDgyNnww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/value-proposition-canvas-model/cover-cf5902a4.jpg",
+    "key": "articles/value-proposition-canvas-model/cover-cf5902a4.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-006",
+    "record_id": "recAJ6ZiMfS78vrHW",
+    "size_bytes": 78398
+  },
+  "https://files.catbox.moe/nkhqwl.png": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/value-proposition-canvas-model/infographic-f71906e4.png",
+    "key": "articles/value-proposition-canvas-model/infographic-f71906e4.png",
+    "role": "infographic",
+    "article_id": "OSR-2026-05-21-006",
+    "record_id": "recAJ6ZiMfS78vrHW",
+    "size_bytes": 2339712
+  },
+  "https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxjdXN0b21lciUyMHJlc2VhcmNoJTIwaW50ZXJ2aWV3JTIwbm90ZXN8ZW58MHwwfHx8MTc3OTQ0MTY1MXww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/value-proposition-canvas-model/supplementary-7e1d0df6.jpg",
+    "key": "articles/value-proposition-canvas-model/supplementary-7e1d0df6.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-006",
+    "record_id": "recAJ6ZiMfS78vrHW",
+    "size_bytes": 92432
+  },
+  "https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2YWxpZGF0ZWQlMjBsZWFybmluZyUyMGxlYW4lMjBzdGFydHVwfGVufDB8MHx8fDE3Nzk0MjEwOTV8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/validated-learning-lean-startup/cover-458ace28.jpg",
+    "key": "articles/validated-learning-lean-startup/cover-458ace28.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-001",
+    "record_id": "recAU0Um9yIsovuu7",
+    "size_bytes": 99719
+  },
+  "https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxub3RlYm9vayUyMGh5cG90aGVzaXMlMjB3cml0aW5nfGVufDB8MHx8fDE3Nzk0Mzg1Njh8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/validated-learning-lean-startup/supplementary-d261c0d1.jpg",
+    "key": "articles/validated-learning-lean-startup/supplementary-d261c0d1.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-001",
+    "record_id": "recAU0Um9yIsovuu7",
+    "size_bytes": 60018
+  },
+  "https://images.unsplash.com/photo-1596188431960-8464ea54f636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwbWFya2V0fGVufDB8MHx8fDE3NzkzNTQ4MjN8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-market/cover-1614da2c.jpg",
+    "key": "articles/vietnam-market/cover-1614da2c.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-002",
+    "record_id": "recFcqgN5PPjgFQWT",
+    "size_bytes": 276924
+  },
+  "https://images.unsplash.com/photo-1488743196279-d2b91fd9e633?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwc2hvcHBpbmclMjBtYXJrZXQlMjBjb25zdW1lcnxlbnwwfDB8fHwxNzc5NDQxNjMyfDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-market/supplementary-ac6adf19.jpg",
+    "key": "articles/vietnam-market/supplementary-ac6adf19.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-002",
+    "record_id": "recFcqgN5PPjgFQWT",
+    "size_bytes": 180279
+  },
+  "https://images.unsplash.com/photo-1737314006079-ae39259991bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx3aGF0JTIwaXMlMjB0aGUlMjBibHVlJTIwb2NlYW4lMjBzdHJhdGVneXxlbnwwfDB8fHwxNzc5MzQ3MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/blue-ocean-vs-red-ocean-strategy/cover-0a65cb76.jpg",
+    "key": "articles/blue-ocean-vs-red-ocean-strategy/cover-0a65cb76.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-010",
+    "record_id": "recIVkU3BHfQDsVVI",
+    "size_bytes": 200849
+  },
+  "https://files.catbox.moe/y0q2el.png": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/blue-ocean-vs-red-ocean-strategy/infographic-022a0a54.png",
+    "key": "articles/blue-ocean-vs-red-ocean-strategy/infographic-022a0a54.png",
+    "role": "infographic",
+    "article_id": "OSR-2026-05-21-010",
+    "record_id": "recIVkU3BHfQDsVVI",
+    "size_bytes": 2487318
+  },
+  "https://images.unsplash.com/photo-1474540412665-1cdae210ae6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxvY2VhbiUyMGhvcml6b24lMjBjYWxtJTIwd2F0ZXJ8ZW58MHwwfHx8MTc3OTQ0MTY3MHww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/blue-ocean-vs-red-ocean-strategy/supplementary-11150ed8.jpg",
+    "key": "articles/blue-ocean-vs-red-ocean-strategy/supplementary-11150ed8.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-010",
+    "record_id": "recIVkU3BHfQDsVVI",
+    "size_bytes": 31647
+  },
+  "https://images.unsplash.com/photo-1648028156742-74e094a09ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwYnVzaW5lc3MlMjBoYW5kc2hha2UlMjBtZWV0aW5nfGVufDB8MHx8fDE3Nzk0MjY1NjB8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/starting-a-business-in-vietnam-as-a-foreigner/cover-986c366b.jpg",
+    "key": "articles/starting-a-business-in-vietnam-as-a-foreigner/cover-986c366b.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-008",
+    "record_id": "recN6TrdYseTuPma7",
+    "size_bytes": 141070
+  },
+  "https://images.unsplash.com/photo-1769941270642-c580d4b17f73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxoYW5vaSUyMGJ1c2luZXNzJTIwZGlzdHJpY3QlMjBvZmZpY2UlMjBidWlsZGluZ3xlbnwwfDB8fHwxNzc5NDM4NjMzfDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/starting-a-business-in-vietnam-as-a-foreigner/supplementary-f3044805.jpg",
+    "key": "articles/starting-a-business-in-vietnam-as-a-foreigner/supplementary-f3044805.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-008",
+    "record_id": "recN6TrdYseTuPma7",
+    "size_bytes": 75175
+  },
+  "https://images.unsplash.com/photo-1512314889357-e157c22f938d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2YWxpZGF0ZSUyMGJ1c2luZXNzJTIwaWRlYXxlbnwwfDB8fHwxNzc5NDIzNjQzfDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/validate-business-idea/cover-79be881a.jpg",
+    "key": "articles/validate-business-idea/cover-79be881a.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-002",
+    "record_id": "recPeHihGo2M4hI0l",
+    "size_bytes": 280439
+  },
+  "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxjdXN0b21lciUyMGZlZWRiYWNrJTIwaW50ZXJ2aWV3fGVufDB8MHx8fDE3Nzk0Mzg1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/validate-business-idea/supplementary-45e870c3.jpg",
+    "key": "articles/validate-business-idea/supplementary-45e870c3.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-002",
+    "record_id": "recPeHihGo2M4hI0l",
+    "size_bytes": 83684
+  },
+  "https://images.unsplash.com/photo-1775994121064-e75fa6f3e84c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWJlJTIwY29kaW5nJTIwdG9vbHN8ZW58MHwwfHx8MTc3OTM0NzI0NHww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vibe-coding-tools/cover-713cd9b9.jpg",
+    "key": "articles/vibe-coding-tools/cover-713cd9b9.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-008",
+    "record_id": "recRPMlSygtKd7baO",
+    "size_bytes": 123672
+  },
+  "https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxjb2RlJTIwZWRpdG9yJTIwbGFwdG9wJTIwZGV2ZWxvcGVyfGVufDB8MHx8fDE3Nzk0NDE2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vibe-coding-tools/supplementary-7ecaac52.jpg",
+    "key": "articles/vibe-coding-tools/supplementary-7ecaac52.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-008",
+    "record_id": "recRPMlSygtKd7baO",
+    "size_bytes": 100087
+  },
+  "https://images.unsplash.com/photo-1533750349088-cd871a92f312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxhaSUyMGJ1c2luZXNzJTIwaWRlYXMlMjAyMDI2fGVufDB8MHx8fDE3Nzk0Mzc2MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/ai-business-ideas-2026/cover-0576032c.jpg",
+    "key": "articles/ai-business-ideas-2026/cover-0576032c.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-014",
+    "record_id": "recT87FbRVLll5Z4f",
+    "size_bytes": 146074
+  },
+  "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY2lyY3VpdCUyMGJvYXJkfGVufDB8MHx8fDE3Nzk0Mzg2MDB8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/ai-business-ideas-2026/supplementary-c1ad360e.jpg",
+    "key": "articles/ai-business-ideas-2026/supplementary-c1ad360e.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-014",
+    "record_id": "recT87FbRVLll5Z4f",
+    "size_bytes": 316106
+  },
+  "https://images.unsplash.com/photo-1688692741434-218ad9979d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwc2t5bGluZSUyMGhhbm9pfGVufDB8MHx8fDE3Nzk0MjYxMDV8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-economy/cover-c1fba578.jpg",
+    "key": "articles/vietnam-economy/cover-c1fba578.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-005",
+    "record_id": "recTntkncjLDxko4H",
+    "size_bytes": 143930
+  },
+  "https://images.unsplash.com/photo-1677837616189-499d9da0f522?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwc3RyZWV0JTIwbWFya2V0fGVufDB8MHx8fDE3Nzk0Mzg1Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-economy/supplementary-209138bd.jpg",
+    "key": "articles/vietnam-economy/supplementary-209138bd.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-005",
+    "record_id": "recTntkncjLDxko4H",
+    "size_bytes": 118184
+  },
+  "https://images.unsplash.com/photo-1508061110522-9ee0a799e290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxob3clMjB0byUyMHJhaXNlJTIwYSUyMHNlZWQlMjByb3VuZHxlbnwwfDB8fHwxNzc5NDMwMDM2fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/how-to-raise-a-seed-round/cover-689711b1.jpg",
+    "key": "articles/how-to-raise-a-seed-round/cover-689711b1.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-017",
+    "record_id": "recVkYniA0eFyAC6J",
+    "size_bytes": 225264
+  },
+  "https://files.catbox.moe/4jyd3t.png": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/how-to-raise-a-seed-round/infographic-6f8a996d.png",
+    "key": "articles/how-to-raise-a-seed-round/infographic-6f8a996d.png",
+    "role": "infographic",
+    "article_id": "OSR-2026-05-22-017",
+    "record_id": "recVkYniA0eFyAC6J",
+    "size_bytes": 2457678
+  },
+  "https://images.unsplash.com/photo-1672380135241-c024f7fbfa13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxoYW5kc2hha2UlMjBidXNpbmVzcyUyMGFncmVlbWVudHxlbnwwfDB8fHwxNzc5NDM4NjA4fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/how-to-raise-a-seed-round/supplementary-c96a7f07.jpg",
+    "key": "articles/how-to-raise-a-seed-round/supplementary-c96a7f07.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-017",
+    "record_id": "recVkYniA0eFyAC6J",
+    "size_bytes": 64930
+  },
+  "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBwYXltZW50JTIwcGhvbmUlMjBxciUyMGNvZGV8ZW58MHwwfHx8MTc3OTQyNjcxNHww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-fintech/cover-dd986ae4.jpg",
+    "key": "articles/vietnam-fintech/cover-dd986ae4.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-009",
+    "record_id": "recWn1EWPAfHihvO6",
+    "size_bytes": 45783
+  },
+  "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBwYXltZW50JTIwcXIlMjBjb2RlfGVufDB8MHx8fDE3Nzk0Mzg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-fintech/supplementary-dd986ae4.jpg",
+    "key": "articles/vietnam-fintech/supplementary-dd986ae4.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-009",
+    "record_id": "recWn1EWPAfHihvO6",
+    "size_bytes": 45783
+  },
+  "https://images.unsplash.com/photo-1625989775494-c54cc0d80cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwdW5pY29ybnN8ZW58MHwwfHx8MTc3OTQyNTg1M3ww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-unicorns/cover-ac754d0b.jpg",
+    "key": "articles/vietnam-unicorns/cover-ac754d0b.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-004",
+    "record_id": "recXUX6xdejeRg169",
+    "size_bytes": 191054
+  },
+  "https://images.unsplash.com/photo-1583417319070-4a69db38a482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxzYWlnb24lMjBjaXR5JTIwc2t5bGluZXxlbnwwfDB8fHwxNzc5NDM4NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vietnam-unicorns/supplementary-c0cc1b62.jpg",
+    "key": "articles/vietnam-unicorns/supplementary-c0cc1b62.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-004",
+    "record_id": "recXUX6xdejeRg169",
+    "size_bytes": 138948
+  },
+  "https://images.unsplash.com/photo-1592028219310-0cb15923525a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwZmFjdG9yeSUyMHZpZXRuYW18ZW58MHwwfHx8MTc3OTQyNjM3NHww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/fdi-in-vietnam/cover-f56fc443.jpg",
+    "key": "articles/fdi-in-vietnam/cover-f56fc443.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-007",
+    "record_id": "recY9n4yuy6qPn8Dh",
+    "size_bytes": 236370
+  },
+  "https://images.unsplash.com/photo-1717386255773-1e3037c81788?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxtYW51ZmFjdHVyaW5nJTIwZmFjaWxpdHklMjBpbmR1c3RyaWFsfGVufDB8MHx8fDE3Nzk0Mzg1ODN8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/fdi-in-vietnam/supplementary-7a4b428f.jpg",
+    "key": "articles/fdi-in-vietnam/supplementary-7a4b428f.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-007",
+    "record_id": "recY9n4yuy6qPn8Dh",
+    "size_bytes": 199007
+  },
+  "https://images.unsplash.com/photo-1629019621374-94c3bae51815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxsZWFuJTIwY2FudmFzJTIwYnVzaW5lc3MlMjBtb2RlbHxlbnwwfDB8fHwxNzc5MzU0ODI2fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/lean-canvas-business-model/cover-397ff002.jpg",
+    "key": "articles/lean-canvas-business-model/cover-397ff002.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-005",
+    "record_id": "reccf8BgsigZQluAw",
+    "size_bytes": 109459
+  },
+  "https://files.catbox.moe/292srl.png": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/lean-canvas-business-model/infographic-7bc4be95.png",
+    "key": "articles/lean-canvas-business-model/infographic-7bc4be95.png",
+    "role": "infographic",
+    "article_id": "OSR-2026-05-21-005",
+    "record_id": "reccf8BgsigZQluAw",
+    "size_bytes": 2305190
+  },
+  "https://images.unsplash.com/photo-1503551723145-6c040742065b-v2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxwb3N0LWl0JTIwbm90ZXMlMjB3YWxsJTIwYnJhaW5zdG9ybXxlbnwwfDB8fHwxNzc5NDQxNjQ2fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/lean-canvas-business-model/supplementary-35feb24e.jpg",
+    "key": "articles/lean-canvas-business-model/supplementary-35feb24e.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-005",
+    "record_id": "reccf8BgsigZQluAw",
+    "size_bytes": 60709
+  },
+  "https://images.unsplash.com/photo-1573868409657-2dc1971b0077?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxleGFtcGxlcyUyMGZvciUyMGJ1c2luZXNzJTIwbW9kZWwlMjBjYW52YXN8ZW58MHwwfHx8MTc3OTM1NDgyNHww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/examples-for-business-model-canvas/cover-d626acaa.jpg",
+    "key": "articles/examples-for-business-model-canvas/cover-d626acaa.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-003",
+    "record_id": "receShyRo78loPbfY",
+    "size_bytes": 142199
+  },
+  "https://files.catbox.moe/iikvf7.png": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/examples-for-business-model-canvas/infographic-77ee39e5.png",
+    "key": "articles/examples-for-business-model-canvas/infographic-77ee39e5.png",
+    "role": "infographic",
+    "article_id": "OSR-2026-05-21-003",
+    "record_id": "receShyRo78loPbfY",
+    "size_bytes": 2156196
+  },
+  "https://images.unsplash.com/photo-1529119368496-2dfda6ec2804?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMHN0cmF0ZWd5JTIwd2hpdGVib2FyZCUyMHBsYW5uaW5nfGVufDB8MHx8fDE3Nzk0NDE2Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/examples-for-business-model-canvas/supplementary-9fb8a643.jpg",
+    "key": "articles/examples-for-business-model-canvas/supplementary-9fb8a643.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-003",
+    "record_id": "receShyRo78loPbfY",
+    "size_bytes": 94514
+  },
+  "https://images.unsplash.com/photo-1774649704786-298b96807db5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2aWJlJTIwY29kaW5nJTIwYXBwbGljYXRpb258ZW58MHwwfHx8MTc3OTM1NDgyNXww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vibe-coding-application/cover-05da5bea.jpg",
+    "key": "articles/vibe-coding-application/cover-05da5bea.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-004",
+    "record_id": "recfWkXUzIs8yG0La",
+    "size_bytes": 99793
+  },
+  "https://images.unsplash.com/photo-1587620962725-abab7fe55159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZXIlMjBhaSUyMGNvZGluZyUyMHdvcmtzcGFjZXxlbnwwfDB8fHwxNzc5NDQxNjQyfDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/vibe-coding-application/supplementary-e94b3817.jpg",
+    "key": "articles/vibe-coding-application/supplementary-e94b3817.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-004",
+    "record_id": "recfWkXUzIs8yG0La",
+    "size_bytes": 92088
+  },
+  "https://images.unsplash.com/photo-1595520519880-a86c48ea536c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxjb21wYXNzJTIwbmlnaHQlMjBza3l8ZW58MHwwfHx8MTc3OTQyNTY0MXww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/north-star-metric/cover-7c5a3308.jpg",
+    "key": "articles/north-star-metric/cover-7c5a3308.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-003",
+    "record_id": "recm1fMxeiWqV5E4z",
+    "size_bytes": 121269
+  },
+  "https://images.unsplash.com/photo-1505778276668-26b3ff7af103?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxjb21wYXNzJTIwZGlyZWN0aW9uJTIwbmF2aWdhdGlvbnxlbnwwfDB8fHwxNzc5NDM4NTcyfDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/north-star-metric/supplementary-056901c1.jpg",
+    "key": "articles/north-star-metric/supplementary-056901c1.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-003",
+    "record_id": "recm1fMxeiWqV5E4z",
+    "size_bytes": 101406
+  },
+  "https://images.unsplash.com/photo-1646692851761-e2bec84312f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxhc2lhbiUyMHVuaWNvcm58ZW58MHwwfHx8MTc3OTQzMDAxMnww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/asian-unicorn/cover-a5ab4e1c.jpg",
+    "key": "articles/asian-unicorn/cover-a5ab4e1c.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-013",
+    "record_id": "recoTte4oMhra8rB3",
+    "size_bytes": 82000
+  },
+  "https://files.catbox.moe/o8aku9.png": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/asian-unicorn/infographic-1f09822c.png",
+    "key": "articles/asian-unicorn/infographic-1f09822c.png",
+    "role": "infographic",
+    "article_id": "OSR-2026-05-22-013",
+    "record_id": "recoTte4oMhra8rB3",
+    "size_bytes": 2230457
+  },
+  "https://images.unsplash.com/flagged/photo-1562503542-2a1e6f03b16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxzaW5nYXBvcmUlMjBza3lsaW5lJTIwbWFyaW5hJTIwYmF5fGVufDB8MHx8fDE3Nzk0Mzg2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/asian-unicorn/supplementary-ae94ad65.jpg",
+    "key": "articles/asian-unicorn/supplementary-ae94ad65.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-013",
+    "record_id": "recoTte4oMhra8rB3",
+    "size_bytes": 181660
+  },
+  "https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxqb2JzJTIwdG8lMjBiZSUyMGRvbmUlMjBmcmFtZXdvcmt8ZW58MHwwfHx8MTc3OTM0NzI0Nnww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/jobs-to-be-done-framework-examples/cover-46887e37.jpg",
+    "key": "articles/jobs-to-be-done-framework-examples/cover-46887e37.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-007",
+    "record_id": "recq4fAkOAPkfPiAU",
+    "size_bytes": 84843
+  },
+  "https://images.unsplash.com/photo-1768913651339-ed049ce26fa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwY29tbXV0ZSUyMGNvZmZlZSUyMGN1cHxlbnwwfDB8fHwxNzc5NDQxNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/jobs-to-be-done-framework-examples/supplementary-db00909d.jpg",
+    "key": "articles/jobs-to-be-done-framework-examples/supplementary-db00909d.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-007",
+    "record_id": "recq4fAkOAPkfPiAU",
+    "size_bytes": 51546
+  },
+  "https://images.unsplash.com/photo-1521019795854-14e15f600980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2ZW50dXJlJTIwY2FwaXRhbCUyMHZpZXRuYW18ZW58MHwwfHx8MTc3OTM1NDgyMnww&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/venture-capital-vietnam/cover-286a5a65.jpg",
+    "key": "articles/venture-capital-vietnam/cover-286a5a65.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-21-001",
+    "record_id": "reczEkdK8zRIejzXK",
+    "size_bytes": 176364
+  },
+  "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHx2ZW50dXJlJTIwY2FwaXRhbCUyMGludmVzdG9yJTIwbWVldGluZyUyMGJvYXJkcm9vbXxlbnwwfDB8fHwxNzc5NDQxNjI4fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/venture-capital-vietnam/supplementary-6a4ba9f7.jpg",
+    "key": "articles/venture-capital-vietnam/supplementary-6a4ba9f7.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-21-001",
+    "record_id": "reczEkdK8zRIejzXK",
+    "size_bytes": 120852
+  },
+  "https://images.unsplash.com/photo-1590098563734-bcea80ce34c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxwaXRjaCUyMGRlY2slMjB0ZW1wbGF0ZXxlbnwwfDB8fHwxNzc5NDI5OTg5fDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/pitch-deck-template/cover-9fc98334.jpg",
+    "key": "articles/pitch-deck-template/cover-9fc98334.jpg",
+    "role": "cover",
+    "article_id": "OSR-2026-05-22-011",
+    "record_id": "reczbqnRimDpVzCnS",
+    "size_bytes": 129418
+  },
+  "https://files.catbox.moe/t50ru8.png": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/pitch-deck-template/infographic-33f3aa10.png",
+    "key": "articles/pitch-deck-template/infographic-33f3aa10.png",
+    "role": "infographic",
+    "article_id": "OSR-2026-05-22-011",
+    "record_id": "reczbqnRimDpVzCnS",
+    "size_bytes": 2414628
+  },
+  "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTcwMjF8MHwxfHNlYXJjaHwxfHxwcmVzZW50YXRpb24lMjBzbGlkZXMlMjBsYXB0b3AlMjBidXNpbmVzc3xlbnwwfDB8fHwxNzc5NDM4NTkzfDA&ixlib=rb-4.1.0&q=80&w=1080": {
+    "new_url": "https://pub-c51f77b2bd044409852cc1d7a31e086c.r2.dev/articles/pitch-deck-template/supplementary-5ab7ed46.jpg",
+    "key": "articles/pitch-deck-template/supplementary-5ab7ed46.jpg",
+    "role": "supplementary",
+    "article_id": "OSR-2026-05-22-011",
+    "record_id": "reczbqnRimDpVzCnS",
+    "size_bytes": 143355
+  }
+}

@@ -1,0 +1,11 @@
+# Core dependencies
+requests>=2.31.0
+markdown>=3.5.0
+python-dotenv>=1.0.0
+
+# Optional (uncomment if needed)
+# For DataForSEO integration
+# dataforseo-client>=1.0.0
+
+# For development
+# pytest>=7.4.0

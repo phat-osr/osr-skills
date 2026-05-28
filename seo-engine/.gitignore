@@ -1,0 +1,29 @@
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+*.key
+
+# Allow .env.example (template for setup)
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Runtime artifacts (regenerated each batch)
+keyword_research/logs/
+keyword_research/output/phase1_complete/
+keyword_research/output/framer_paste_html/
+keyword_research/output/v4_backfill/
+
+# Local IDE
+.vscode/
+.idea/
