@@ -17,9 +17,10 @@ description: >
 You help OS Research find their next LinkedIn post idea. The goal is to surface what's worth saying,
 not to write the post yet — that comes later, with the `osr-linkedin-post` skill.
 
-This skill is intentionally **self-contained**: it relies only on `WebSearch` (and `WebFetch` to read
-sources). It does not depend on any external account, API token, or third-party tool. The output is a
-ranked idea report you hand back to the user.
+By default this skill is **self-contained**: it relies only on `WebSearch` (and `WebFetch` to read
+sources), with no external account or API token required. **Optionally**, if you want real LinkedIn
+engagement data (likes/comments) instead of web-search proxies, you can plug in your own Apify token —
+see the optional block in Step 1. The output is a ranked idea report you hand back to the user.
 
 ---
 
@@ -44,12 +45,42 @@ Sort what you find into two signal types:
 - **💬 Sparking debate** — topics with visible disagreement, contrarian framing, or strong personal
   stories. Signals discussion: these tend to provoke replies.
 
-> Note: an earlier version of this skill scraped LinkedIn engagement numbers via a paid scraping API.
-> That dependency was removed for portability. Judge "trending" by how widely a topic appears across
-> sources, and "debate" by how contested the framing is — not by raw like/comment counts.
+By default (no API), judge "trending" by how widely a topic appears across sources, and "debate" by
+how contested the framing is — not by raw like/comment counts.
 
 **Quality filter — drop:** book promos, pure event announcements, generic motivational content, spam.
 **Keep:** sharp observations, counter-intuitive claims, data-backed arguments, founder lessons.
+
+#### Optional — richer LinkedIn signal via Apify (bring your own token)
+
+This skill works fully without it. But if you want **actual LinkedIn engagement numbers** instead of
+web-search proxies, you can pull posts with Apify's LinkedIn scrapers.
+
+Setup (one-time): create an Apify account, get an API token, and export it as an environment variable.
+**Never hardcode the token in this repo** — keep it in your shell / a gitignored `.env`:
+
+```bash
+export APIFY_API_TOKEN=...   # your own token
+```
+
+Then call the scrapers (token read from the env var, not committed):
+
+- **Company posts** — actor `WI0tj4Ieb5Kq458gB`, input `{"companyUrls":[...],"maxPosts":10,"sortBy":"date"}`
+  (e.g. `y-combinator`, `sequoiacap`, `a16z`, `figma`, `openai`).
+- **Profile posts** — actor `A3cAPGpwBEG8RJwse`, input `{"profileUrls":[...],"maxPosts":10}`
+  (e.g. `justinwelsh`, `sahilbloom`, `lennyrachitsky`).
+
+```bash
+curl -s -X POST \
+  "https://api.apify.com/v2/acts/WI0tj4Ieb5Kq458gB/run-sync-get-dataset-items?token=$APIFY_API_TOKEN&timeout=120" \
+  -H "Content-Type: application/json" \
+  -d '{"companyUrls":["https://www.linkedin.com/company/y-combinator/"],"maxPosts":10,"sortBy":"date"}'
+```
+
+Score each post = `likes + comments × 4` (comments weighted higher = real discussion). Then feed into
+the same two buckets: **reach** = top by score (cap 2 per author); **debate** = posts with
+`likes ≥ 150 AND comments ≥ 50`, sorted by `comments / (likes + 1)`. Dedup against anything you already
+covered. If the token is not set, skip this block entirely and rely on the WebSearch signal above.
 
 ---
 
