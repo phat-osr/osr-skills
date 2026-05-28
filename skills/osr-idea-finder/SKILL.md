@@ -125,6 +125,13 @@ The absence of a topic in high-engagement discourse is often the best opportunit
 Present a single markdown report directly to the user. Do not write to any external doc or tool.
 Write summaries in Vietnamese; keep numbers/quotes verbatim in English when they appear in the source.
 
+**Links — important:** for the Trending and Debate sections (LinkedIn discourse), the `🔗` link MUST be
+the **LinkedIn post permalink** so the user can open the actual post in one click — use the `linkedinUrl`
+from the optional Apify step, or a `linkedin.com/posts/...` / `linkedin.com/feed/update/...` URL if
+WebSearch surfaced the post directly. If a trending item came from a web article rather than a real
+post, link the article and label it `(bài viết)` so it's clear it isn't a post. For the Vietnam
+ecosystem section, link the source article.
+
 ```
 # 💡 OSR Idea Report — DD/MM/YYYY
 
@@ -133,7 +140,7 @@ Write summaries in Vietnamese; keep numbers/quotes verbatim in English when they
 
 ### [Short topic title]
 [2–3 sentences: what it's about + what format/hook makes it work + why it's resonating]
-🔗 [source](url)
+🔗 [Xem post LinkedIn](linkedin-post-url)
 
 [repeat ~5–7 items]
 
@@ -142,7 +149,7 @@ Write summaries in Vietnamese; keep numbers/quotes verbatim in English when they
 
 ### [Short topic title]
 [2–3 sentences: the contrarian angle + why it's contested]
-🔗 [source](url)
+🔗 [Xem post LinkedIn](linkedin-post-url)
 
 [repeat ~3 items]
 
